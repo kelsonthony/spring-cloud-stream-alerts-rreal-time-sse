@@ -1,4 +1,4 @@
-package com.example.algaworks.spring.cloud.stream.rssconsumer;
+package com.kelsonthony.spring.cloud.stream.rssconsumer;
 
 import lombok.Data;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.example.algaworks.spring.cloud.stream.webpush.api;
+package com.kelsonthony.spring.cloud.stream.rssconsumer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,10 +1,11 @@
-package com.example.algaworks.spring.cloud.stream.webpush.domain.alert;
+package com.kelsonthony.spring.cloud.stream.domain.alert;
 
-import com.example.algaworks.spring.cloud.stream.webpush.api.FeedEvent;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.catalina.connector.ClientAbortException;
 import org.springframework.stereotype.Service;
 import org.springframework.web.servlet.mvc.method.annotation.SseEmitter;
+
+import com.kelsonthony.spring.cloud.stream.api.FeedEvent;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;

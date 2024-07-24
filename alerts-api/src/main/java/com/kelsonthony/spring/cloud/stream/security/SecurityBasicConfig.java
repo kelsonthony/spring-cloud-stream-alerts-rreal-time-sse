@@ -1,13 +1,14 @@
-package com.example.algaworks.spring.cloud.stream.webpush.security;
+package com.kelsonthony.spring.cloud.stream.security;
 
-import com.example.algaworks.spring.cloud.stream.webpush.domain.user.User;
-import com.example.algaworks.spring.cloud.stream.webpush.domain.user.UserRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 import org.springframework.security.web.SecurityFilterChain;
+
+import com.kelsonthony.spring.cloud.stream.domain.user.User;
+import com.kelsonthony.spring.cloud.stream.domain.user.UserRepository;
 
 import static org.springframework.security.config.Customizer.withDefaults;
 

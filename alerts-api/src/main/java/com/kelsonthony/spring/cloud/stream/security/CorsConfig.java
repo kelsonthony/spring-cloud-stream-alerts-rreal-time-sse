@@ -1,4 +1,4 @@
-package com.example.algaworks.spring.cloud.stream.webpush.security;
+package com.kelsonthony.spring.cloud.stream.security;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;

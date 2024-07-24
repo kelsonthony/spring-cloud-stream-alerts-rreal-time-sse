@@ -1,4 +1,4 @@
-package com.example.algaworks.spring.cloud.stream.webpush.domain.user;
+package com.kelsonthony.spring.cloud.stream.domain.user;
 
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;

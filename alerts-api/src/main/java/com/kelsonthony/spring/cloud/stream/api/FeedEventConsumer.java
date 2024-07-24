@@ -1,9 +1,10 @@
-package com.example.algaworks.spring.cloud.stream.webpush.api;
+package com.kelsonthony.spring.cloud.stream.api;
 
-import com.example.algaworks.spring.cloud.stream.webpush.domain.alert.AlertService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
+
+import com.kelsonthony.spring.cloud.stream.domain.alert.AlertService;
 
 import java.util.function.Consumer;
 

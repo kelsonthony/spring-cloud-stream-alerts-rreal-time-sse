@@ -1,10 +1,11 @@
-package com.example.algaworks.spring.cloud.stream.webpush.security;
+package com.kelsonthony.spring.cloud.stream.security;
 
-import com.example.algaworks.spring.cloud.stream.webpush.domain.user.User;
-import com.example.algaworks.spring.cloud.stream.webpush.domain.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
+
+import com.kelsonthony.spring.cloud.stream.domain.user.User;
+import com.kelsonthony.spring.cloud.stream.domain.user.UserRepository;
 
 @Service
 @RequiredArgsConstructor

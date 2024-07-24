@@ -1,4 +1,4 @@
-package com.example.algaworks.spring.cloud.stream.rssconsumer;
+package com.kelsonthony.spring.cloud.stream.rssconsumer;
 
 import com.rometools.rome.feed.synd.SyndEntry;
 import lombok.extern.slf4j.Slf4j;

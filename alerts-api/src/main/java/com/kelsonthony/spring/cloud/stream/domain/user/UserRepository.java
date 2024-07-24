@@ -1,4 +1,4 @@
-package com.example.algaworks.spring.cloud.stream.webpush.domain.user;
+package com.kelsonthony.spring.cloud.stream.domain.user;
 
 import org.springframework.stereotype.Component;
 

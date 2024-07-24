@@ -1,4 +1,4 @@
-package com.example.algaworks.spring.cloud.stream.webpush;
+package com.kelsonthony.spring.cloud.stream;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
